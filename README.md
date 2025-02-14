@@ -9,7 +9,7 @@
   </div>
 
   <h3 align="center">Iphone 15 Website</h3>
-  <a href='https://3js-gsap-apple-copy.vercel.app/'>Check website</a>
+  <a color="black" href='https://3js-gsap-apple-copy.vercel.app/'>Check website</a>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
