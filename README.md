@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 
   <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -9,15 +9,13 @@
   </div>
 
   <h3 align="center">Iphone 15 Website</h3>
+  <a href='https://3js-gsap-apple-copy.vercel.app/'>Check website</a>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
 
-
 1. ⚙️ [Tech Stack](#tech-stack)
 2. 🤸 [Quick Start](#quick-start)
-
-
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -28,7 +26,6 @@
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
-
 
 ## <a name="quick-start">🤸 Quick Start</a>
 
@@ -47,6 +44,5 @@ npm run dev
 ```
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
-
 
 #
